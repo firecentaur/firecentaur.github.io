@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "github-activity-feed": "^0.3.0",
+    "github-calendar": "^2.2.9",
+    "jquery": "^3.6.0",
+    "jquery-rss": "^4.3.0"
+  }
+}
