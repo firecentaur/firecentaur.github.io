@@ -17,7 +17,7 @@
 
     <script>
         jQuery(function ($) {
-            $("#feed").rss("https://b3dmultitech.com/feed/");
+            $("#rss-feeds").rss("https://b3dmultitech.com/feed/");
         });
     </script>
 
@@ -364,12 +364,12 @@
                     <script>
                         GitHubActivity.feed({
                             username: "firecentaur",
-                            selector: "#feed",
+                            selector: "#ghfeed",
                             limit: 20, // optional
                         });
                     </script>
 
-                    <div id="feed" class="gha-feed">
+                    <div id="ghfeed" class="gha-feed">
                     </div><!--//ghfeed-->
 
                 </div><!--//secton-inner-->
