@@ -1,56 +1,37 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/free-bootstrap-portfolio-theme-for-web-developers.jpg" alt="Developer Theme" width="750" /></a>
+<p align="center"> <h1 align="center"> Paul Preibisch</h1> </p>
+<p align="center">
+<a href="https://github.com/firecentaur" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Paul Preibisch" height="20" width="20" /></a>
+<a href="https://b3dmultitech.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Paul Preibisch Blog" height="20" width="20" /></a>
+</p>
 
-## Theme Details & Demo
+Hi! I am paul Preibisch. I am a diligent software engineer and project manager with 10+ years experience producing production level code for educational software startups. My platform of choice is Laravel. I am conscientious in writing good, clean and readable code. I constantly review and embrace best practices in coding to avoid problems down the road. I am also experienced with code reviews, quality control, and working with other developers in team environments.
 
-**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/
+👯 I’m looking to collaborate on Laravel projects.
 
-Developer is a free Bootstrap 5 template designed to **help developers promote their work**. 
-It can be used as a **professional portal** to your other online portfolios or websites (eg. Linkedin, Blog, GitHub etc) **in a modular fashion**. 
-The template comes with all of the **source SCSS files included** so the styling/colour can easily be customised to your taste.
+🤔 I’m looking for work as a project manager or Laravel developer
+📫 How to reach me:
 
-**New Feature - Dark Mode**
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2021/07/developer-template-BS5-darkmode.gif" alt="Developer Theme Dark Mode" width="750" /></a>
+`Website` - [b3dmultitech.com](https://b3dmultitech.com)
 
+❤️ Support my open source projects:
 
-## Author & License
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/donate/?hosted_button_id=TXCCMYFYVREJJ)
 
-This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
+<!--
+**firecentaur/firecentaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-If you'd like to **use the template without the footer attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/)
+Here are some ideas to get you started:
 
-#### Follow Xiaoying
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-[Twitter](https://twitter.com/3rdwave_themes)
-
-[Facebook](https://www.facebook.com/3rdwavethemes/)
-
-[Dribbble](https://dribbble.com/Xiaoying)
-
-[Medium](https://medium.com/@3rdwave_themes)
-
-[Linkedin](https://uk.linkedin.com/in/xiaoying)
-
-
-## Latest Version
-**Bootstrap 5 v1.0* - 2021-07-09
-
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/?target=changelog)
-
-
-## Features
-
--  Fully Responsive
--  HTML5 + CSS3
--  Built on Bootstrap 5
--  No jQuery dependency
--  **SCSS** source files included
--  1000+ FontAwesome icons
-
-
-## Credits
-- [Bootstrap](http://getbootstrap.com/)
-- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
-- [GitHub Activity Stream](http://caseyscarborough.com/projects/github-activity/)
-- [GitHub Calendar Plugin](https://github.com/IonicaBizau/github-calendar)
-- [Vanilla RSS](https://github.com/sdepold/jquery-rss)
-- Profile image: [Ben Smith](https://www.flickr.com/photos/dotbenjamin/2577394151)
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=firecentaur&show_icons=true alt=Firecentaur />
+</p>
