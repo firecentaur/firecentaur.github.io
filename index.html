@@ -10,7 +10,17 @@
     <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="node_modules/octicons/build/font/octicons.css">
+
+    <!-- For github activity feed  @see https://caseyscarborough.com/projects/github-activity/-->
+    <link rel="stylesheet" href="node_modules/octicons/build/font/octicons.css">
     <link rel="stylesheet" href="node_modules/github-activity-feed/dist/github-activity.min.css">
+
+    <script type="text/javascript" src="node_modules/mustache/mustache.min.js"></script>
+    <script type="text/javascript" src="node_modules/github-activity-feed/dist/github-activity.min.js"></script>
+    <!-- end github-activity-feed code-->
+    <!-- -->
+
+
     <script src="http://code.jquery.com/jquery-1.11.0.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-rss/3.3.0/jquery.rss.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
@@ -21,8 +31,7 @@
         });
     </script>
 
-    <script type="text/javascript" src="node_modules/mustache/mustache.min.js"></script>
-    <script type="text/javascript" src="node_modules/github-activity-feed/dist/github-activity.min.js"></script>
+
 
     <script
             src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
@@ -365,12 +374,11 @@
                         GitHubActivity.feed({
                             username: "firecentaur",
                             selector: "#ghfeed",
-                            limit: 20, // optional
+                            limit: 10, // optional
                         });
                     </script>
-
-                    <div id="ghfeed" class="gha-feed">
-                    </div><!--//ghfeed-->
+                    <!--display github activity feed module-->
+                    <div id="ghfeed" class="gha-feed"></div>
 
                 </div><!--//secton-inner-->
             </section><!--//section-->
